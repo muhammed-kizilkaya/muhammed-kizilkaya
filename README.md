@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Murat Muhammed Bayat </h1>
+<h1 align="center">Hi 👋, I'm Muhammed Bayat </h1>
 <h4 align="center" >Computer Engineer </h2>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=muhammed-bayat&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed" /></p>
