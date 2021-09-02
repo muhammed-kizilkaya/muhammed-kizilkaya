@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: muhammed-bayat/blog@master
+      - uses: muhammed-bayat/blog@main
         with:
           feed_list: "https://muhammedbayat.wordpress.com/feed/"
