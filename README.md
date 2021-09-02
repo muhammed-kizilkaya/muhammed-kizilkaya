@@ -1,7 +1,7 @@
  
  
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=muhammed-bayat&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=muhammed-bayat">
 
 # Merhaba, ben Muhammed Bayat! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-bayat" alt="muhammed" /> </p>
