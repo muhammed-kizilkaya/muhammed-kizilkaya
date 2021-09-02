@@ -1,3 +1,5 @@
+ 
+         
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
@@ -8,7 +10,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-       
+      - uses: actions/checkout@v2
       - uses: muhammed-bayat/muhammed-bayat@master
         with:
           feed_list: "https://muhammedbayat.wordpress.com/feed/"
