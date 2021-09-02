@@ -19,3 +19,12 @@
 
 
 ![snake gif](https://github.com/muhammed-bayat/muhammed-bayat/blob/output/github-contribution-grid-snake.gif)
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+
+
+
+<!-- BLOG-POST-LIST:END -->
