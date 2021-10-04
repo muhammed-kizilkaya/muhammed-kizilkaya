@@ -3,9 +3,20 @@
 
 
  
-# Merhaba, ben Muhammed Bayat! 
+
+
+<h1 align="center">Hi 👋, I'm Muhammed BAYAT</h1>
+<h3 align="center">Graduated Computer Engineering.</h3>
  
+- 🌱 I’m currently learning **Django and Linux server**. Previously, I worked on **mobile application development**, **game development**, **backend** and **3d model drawing / AR application** design.
+
+- 🎯 Discovering new technologies and developing software solutions.
+
+
+***You can find the languages I use and my skills below.***
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammed-bayat&show_icons=true&theme=dark" alt="muhammed-bayat" /></p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-bayat&label=Profile%20views&color=ff0000&style=flat" alt="muhammed-bayat" /> </p>
 
