@@ -30,7 +30,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zero-to-hero/)
  
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammedbayat0)
-[![Mail Badge](https://img.shields.io/badge/muhammed.bayat07@erzurum.edu.tr-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:muhammed.bayat07@erzurum.edu.tr)](mailto:muhammed.bayat07@erzurum.edu.tr)
+[![Mail Badge](https://img.shields.io/badge/muhammedbayatov@gmail.com-c14438?&logo=Gmail&logoColor=white&link=mailto:muhammedbayatov@gmail.com)](mailto:muhammedbayatov@gmail.com)
 
 
 
