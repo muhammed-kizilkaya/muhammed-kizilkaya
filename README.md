@@ -10,6 +10,8 @@
  
 - 🌱 I’m currently learning **Django and Linux server**. Previously, I worked on **mobile application development**, **game development**, **backend** and **3d model drawing / AR application** design.
 
+- A backend developer from Turkey. Working at **BAYKAR** as a software developer.
+
 - 🎯 Discovering new technologies and developing software solutions.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
