@@ -10,7 +10,7 @@
  
 - 🌱 I’m currently learning **Django and Linux server**. Previously, I worked on **mobile application development**, **game development**, **backend** and **3d model drawing / AR application** design.
 
-- A backend developer from Turkey. Working at **BAYKAR** as a software developer.
+- A backend developer from Turkey. 
 
 - 🎯 Discovering new technologies and developing software solutions.
 
