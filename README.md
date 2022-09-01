@@ -1,6 +1,6 @@
 ```clojure
 (def about-me
-  {:name      "Muhammed BAYATt"
+  {:name      "Muhammed BAYAT"
    :shortname "muhammed-bayat"
    :from      "Turkey"
    :company   "Baykar"
