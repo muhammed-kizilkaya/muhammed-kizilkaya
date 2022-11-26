@@ -8,8 +8,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed BAYAT</h1>
 <h3 align="center">Graduated Computer Engineering.</h3>
  
-- 🌱 I’m currently learning **Django and Linux server**. Previously, I worked on **mobile application development**, **game development**, **backend** and **3d model drawing / AR application** design.
-
 - A backend developer from Turkey. 
 
 - 🎯 Discovering new technologies and developing software solutions.
