@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammed BAYAT</h1>
-<h3 align="center">A backend developer from Turkey.</h3>
+<h3 align="center">A Full Stack Developer From Turkey.</h3>
  
  
 
