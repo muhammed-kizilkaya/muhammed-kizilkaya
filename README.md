@@ -16,7 +16,7 @@
 
 
 
- [<img  src="https://github-readme-stats.vercel.app/api?username=muhammed-bayat&theme=dark&show_icons=true&hide=contribs">](https://metrics.lecoq.io/muhammed-bayat?template=classic)
+ [<img  src="https://metrics.lecoq.io/muhammed-bayat?template=classic">](https://metrics.lecoq.io/muhammed-bayat?template=classic)
 
  ![snake gif](https://github.com/muhammed-bayat/muhammed-bayat/blob/output/github-contribution-grid-snake.gif)
 
