@@ -22,10 +22,10 @@
 
 
 
-  [<img style="
-    background-color: white;
-" src="https://github.com/muhammed-bayat/muhammed-bayat/raw/main/ekran_resmi_2022-08-22_20.00.15-removebg.png">](https://github.com/muhammed-bayat/muhammed-bayat/raw/main/ekran_resmi_2022-08-22_20.00.15-removebg.png)
-
+ 
+ 
   
-
+<div style="background-color:white;">
+  <img style="background-color: white !important" src="https://github.com/muhammed-bayat/muhammed-bayat/raw/main/iamge.jpg">
+</div>
  
