@@ -17,7 +17,7 @@ If you would like to get in touch, you can reach me via [LinkedIn](https://www.l
 
 
 - 🎯 Discovering new technologies and developing software solutions.
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="320" />
 
 
 [![Github İstatistiklerim](https://github-readme-stats.vercel.app/api?username=muhammed-bayat&show_icons=true&count_private=true&theme=radical)](https://github.com/muhammed-bayat)
