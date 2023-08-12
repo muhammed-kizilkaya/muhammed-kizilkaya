@@ -44,7 +44,7 @@ If you would like to get in touch, you can reach me via [LinkedIn](https://www.l
 [![](https://img.shields.io/github/followers/muhammed-kizilkaya?style=social)](https://www.github.com/muhammed-kizilkaya)
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCPdGFnLU4GFPOq-iAOxBh3A)
- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zero-to-hero/)
+ [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-kizilkaya/)
 
  
 
