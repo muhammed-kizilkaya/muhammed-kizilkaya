@@ -20,7 +20,7 @@ I have also developed two mobile applications from design to backend using Java.
 I am constantly improving myself in the field of software development and enjoy taking on new challenges to find innovative solutions.
 I enjoy keeping up with the latest technologies and applying them to my work.
 ```
-<p align="center"> <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=muhammed-kizilkaya&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whybe7" /> </p>
+<p align="center"> <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=muhammed-bayat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whybe7" /> </p>
 
 
 
