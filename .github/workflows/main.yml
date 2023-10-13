@@ -21,9 +21,9 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-
+      - name: Auto assigns assignees
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/auto-assign@1.0.0
 
     # Generates the snake  
       - uses: Platane/snk@master
