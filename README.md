@@ -8,18 +8,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=735&lines=Hello%2C+I+am+Muhammed+and+I+am+working+on+new+technologies.)](https://git.io/typing-svg)
 
 
-```python
-from bio import my_bio
-print(my_bio)
 
-# result:
-As a software developer, I have a passion for exploring new technologies, particularly in the areas of artificial intelligence, game development, Fullstack Django, and mobile technology. 
-I have experience in Python, Django, React Native, Linux, and server-side security and project management. 
-In game development, I have worked with Unity, Unreal Engine, and Unigine 2, and have completed two projects using Flutter and React Native.
-I have also developed two mobile applications from design to backend using Java.
-I am constantly improving myself in the field of software development and enjoy taking on new challenges to find innovative solutions.
-I enjoy keeping up with the latest technologies and applying them to my work.
-```
 <p align="center"> <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=muhammed-bayat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whybe7" /> </p>
 
 
