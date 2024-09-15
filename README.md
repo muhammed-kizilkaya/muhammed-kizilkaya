@@ -68,7 +68,7 @@
 
 ### :fire: My Stats :
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammed-kizilkaya&theme=dark&background=000000" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammed-kizilkaya&theme=highcontrast" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
