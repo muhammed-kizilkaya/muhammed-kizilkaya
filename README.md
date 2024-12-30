@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me :
 - 👋 Hi, I’m **Muhammed Kızılkaya**, a passionate Software Engineer.
-- 🔥 I’m currently exploring cutting-edge technologies like **React Native**, **Expo**, **Django**, **Python**, and **Unity**.
+- 🔥 I’m currently exploring cutting-edge technologies like **React Native**, **Swift**, **Kotlin**, **Python**.
 - 🚀 I love building modern web and mobile applications that solve real-world problems.
 - 🌱 **2024 Goals**: Mastering **React Native**, enhancing my skills in **Django** and **Python**, and working on exciting **Unity** projects.
 - 🎯 My main focus is on creating impactful applications that provide smooth user experiences with powerful backend integration.
