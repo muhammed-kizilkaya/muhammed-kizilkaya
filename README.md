@@ -1,7 +1,4 @@
-
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=735&lines=Hello%2C+I+am+Muhammed+and+I+am+working+on+new+technologies.)](https://git.io/typing-svg)
-
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=735&lines=Hello%2C+I+am+Muhammed+and+I+am+a+Mobile+App+Developer+Team+Lead.)](https://git.io/typing-svg)
 
 <p align="center"> <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=muhammed-bayat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whybe7" /> </p>
 <div id="header" align="center">
@@ -23,11 +20,11 @@
 ---
 
 ### 👨‍💻 About Me :
-- 👋 Hi, I’m **Muhammed Kızılkaya**, a passionate Software Engineer.
-- 🔥 I’m currently exploring cutting-edge technologies like **React Native**, **Swift**, **Kotlin**, **Python**.
-- 🚀 I love building modern web and mobile applications that solve real-world problems.
-- 🌱 **2024 Goals**: Mastering **React Native**, enhancing my skills in **Django** and **Python**, and working on exciting **Unity** projects.
-- 🎯 My main focus is on creating impactful applications that provide smooth user experiences with powerful backend integration.
+- 👋 Hi, I’m **Muhammed Kızılkaya**, a passionate **Mobile App Developer Team Lead**.
+- 🔥 I’m currently working on **React Native**, **Expo**, **Swift**, and **Kotlin** to build cutting-edge mobile applications.
+- 🚀 I love exploring new technologies and regularly read articles to stay updated on industry trends.
+- 🌱 **2025 Goals**: Enhance my expertise in **mobile app development** and contribute to innovative projects.
+- 🎯 My focus is on leading teams to create impactful applications with seamless user experiences and robust backend integration.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding"/>
@@ -49,8 +46,9 @@
 ### :hammer_and_wrench: Tools & Frameworks :
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -74,9 +72,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="300" alt="success"/>
 </p>
-
-
- 
-  
-
- 
