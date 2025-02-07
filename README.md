@@ -1,6 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=735&lines=Hello%2C+I+am+Muhammed+and+I+am+a+Mobile+App+Developer+Team+Lead.)](https://git.io/typing-svg)
 
-<p align="center"> <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=muhammed-bayat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whybe7" /> </p>
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e4702hloj223ibloevt3zhi2lrwcxwjsaskbc5hr6z3&rid=giphy.gif&ct=g" width="200"/>
   <div id="badges" pt={2}>
@@ -10,11 +8,14 @@
     <a href="https://github.com/muhammed-kizilkaya">
       <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
     </a>
+    
   </div>
   <h1>
     Welcome to My World 🌍
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <p align="center"> <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=muhammed-bayat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whybe7" /> </p>
+
 </div>
 
 ---
