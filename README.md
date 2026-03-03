@@ -1,17 +1,14 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-  <!-- Animated wave banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Muhammed%20K%C4%B1z%C4%B1lkaya&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Mobile%20App%20Developer%20%7C%20Team%20Lead&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-  <!-- Typing animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%93%B1+Building+the+future%2C+one+app+at+a+time;%F0%9F%9A%80+React+Native+%7C+Swift+%7C+Kotlin+%7C+Expo;%F0%9F%94%A5+Leading+teams+to+ship+great+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+future%2C+one+app+at+a+time;React+Native+%7C+Swift+%7C+Kotlin+%7C+Expo;Leading+teams+to+ship+great+products" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Social badges -->
   <a href="https://www.linkedin.com/in/muhammed-kizilkaya/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -26,7 +23,7 @@
 
   <br/><br/>
 
- <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=muhammed-bayat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whybe7" />  
+   <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=muhammed-bayat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whybe7" />  
 
 
 </div>
@@ -35,77 +32,105 @@
 
 <!-- ========== ABOUT ME ========== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" /> &nbsp;About Me
+## About Me
 
-<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="260" />
+<img align="right" src="https://cdn.dribbble.com/users/1233499/screenshots/3946056/media/43aab39cf20202c10a08e04da0585783.gif" width="280" />
 
 ```yaml
 name: Muhammed Kızılkaya
 role: Mobile App Developer & Team Lead
-location: Turkey 🇹🇷
-focus: Cross-platform Mobile Development
+location: Turkey
+focus: Cross-platform & Native Mobile Development
+
+experience:
+  - Leading mobile dev teams
+  - Building production apps at scale
+  - Full-stack mobile architecture
 
 current_stack:
-  - React Native & Expo
-  - Swift (iOS)
-  - Kotlin (Android)
+  primary: React Native & Expo
+  native: Swift (iOS) / Kotlin (Android)
+  backend: Django, Node.js, Firebase
+  ai: OpenAI, Claude, Gemini integrations
 
 2026_goals:
   - Ship impactful products at scale
-  - Deep dive into native performance optimization
+  - Deep dive into on-device AI/ML
   - Contribute more to open source
 
-fun_fact: "I debug in my dreams 💭"
+fun_fact: "I debug in my dreams"
 ```
 
 <br clear="both"/>
 
+---
+
 <!-- ========== TECH STACK ========== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> Tech Stack
+## Tech Arsenal
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+#### Mobile Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,swift,kotlin,flutter,androidstudio&theme=dark" />
+</a>
 
-### Frameworks & Libraries
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+#### Frontend & Web
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nextjs&theme=dark" />
+</a>
 
-### Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+#### Backend & APIs
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,express,graphql,fastapi&theme=dark" />
+</a>
 
-<br/>
+#### Databases & Storage
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,redis,supabase&theme=dark" />
+</a>
 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="320" alt="pixel art coding"/>
+#### AI & Machine Learning
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+</a>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-0d1117?style=for-the-badge&logo=anthropic&logoColor=d4a27f)
+![Google Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+
+#### Cloud & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,nginx&theme=dark" />
+</a>
+
+#### Testing & QA
+![Jest](https://img.shields.io/badge/Jest-0d1117?style=for-the-badge&logo=jest&logoColor=C21325)
+![Detox](https://img.shields.io/badge/Detox-0d1117?style=for-the-badge&logo=wix&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-0d1117?style=for-the-badge&logo=cypress&logoColor=69D3A7)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+#### Tools & Workflow
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,bash&theme=dark" />
+</a>
+
+![Jira](https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=0052CC)
+![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-0d1117?style=for-the-badge&logo=slack&logoColor=4A154B)
+![Sentry](https://img.shields.io/badge/Sentry-0d1117?style=for-the-badge&logo=sentry&logoColor=362D59)
 
 </div>
 
-<br/>
+---
 
 <!-- ========== GITHUB STATS ========== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" /> GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-  <!-- Streak stats -->
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=muhammed-kizilkaya&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
   </a>
@@ -118,35 +143,36 @@ fun_fact: "I debug in my dreams 💭"
 
 </div>
 
-<br/>
+---
 
 <!-- ========== TROPHIES ========== -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammed-kizilkaya&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 </div>
 
-<br/>
+---
 
 <!-- ========== ACTIVITY GRAPH ========== -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammed-kizilkaya&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a3a5c&hide_border=true" width="95%" />
 </div>
 
-<br/>
+---
 
 <!-- ========== SNAKE ========== -->
 <div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammed-kizilkaya/muhammed-kizilkaya/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammed-kizilkaya/muhammed-kizilkaya/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/muhammed-kizilkaya/muhammed-kizilkaya/output/github-snake-dark.svg" width="100%" />
   </picture>
 
-  > 🐍 To enable the snake animation, add the [Snake GitHub Action](https://github.com/Platane/snk) to your profile repo.
+  <sub>Enable via <a href="https://github.com/Platane/snk">Snake GitHub Action</a> &nbsp;|&nbsp; 3D contrib via <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a></sub>
 
 </div>
 
-<br/>
+---
 
 <!-- ========== QUOTE ========== -->
 <div align="center">
@@ -160,7 +186,6 @@ fun_fact: "I debug in my dreams 💭"
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" width="18" />
-  <sub> Made with mass coffee by <b>Muhammed Kızılkaya</b></sub>
+  <sub>Made with mass coffee by <b>Muhammed Kızılkaya</b></sub>
 
 </div>
