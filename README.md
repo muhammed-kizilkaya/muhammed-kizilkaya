@@ -26,7 +26,8 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=muhammed-kizilkaya&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile views" />
+ <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=muhammed-bayat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whybe7" />  
+
 
 </div>
 
